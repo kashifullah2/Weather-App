@@ -5,7 +5,7 @@ from datetime import datetime
 import pytz
 
 #Api get from openweathermap if not working update the api
-api_key = "ff1d0a24edb8262fe491ecbdbc86a4be"
+api_key = "YOUR api KEY"
 class Weather:
 
     def __init__(self, city):
